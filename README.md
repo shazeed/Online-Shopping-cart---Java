@@ -4,3 +4,5 @@ priviliges like creating a new item, adding an existing item or deleting an item
 , add items to the cart and purchase them.
 
 The program runs with the Main class. 
+user : fancy
+password: fancy
